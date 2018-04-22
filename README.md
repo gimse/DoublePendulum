@@ -11,11 +11,11 @@ MATLAB 2016a
 
 ## Screencapture
 
-![Demo image](https://github.com/gimse/DoublePendulumSimulation/blob/master/demo2.gif)
+![Demo image](https://github.com/gimse/DoublePendulumSimulation/blob/master/demo1.gif)
 
 
 ## Authors
 
-* **Håkon Gimse** - *Initial work* - [gimse](https://github.com/gimse)
+* **HÃ¥kon Gimse** - *Initial work* - [gimse](https://github.com/gimse)
 
 
