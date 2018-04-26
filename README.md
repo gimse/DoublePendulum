@@ -1,10 +1,10 @@
-# Double Pendulum simulation
+# Double Pendulum
 
-Simulationg a double pendelum by solving the Euler-Lagrange equation.
+Simulating a double pendelum by solving the Euler-Lagrange equation.
 
 ## Screencapture
 
-![Demo image](https://github.com/gimse/DoublePendulumSimulation/blob/master/demo1.gif)
+![Demo image](demo1.gif)
 
 ## Getting Started
 
